@@ -15,12 +15,16 @@
     font-size: 22px;
     font-weight: 700;
     line-height: 120%;
+
+    color: var(--slate-900);
 }
 
 .outfit-regular {
     font-size: 15px;
     font-weight: 400;
     line-height: 140%;
+
+    color: var(--slate-500);
 }
 
 body {
